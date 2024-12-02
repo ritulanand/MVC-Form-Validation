@@ -1,0 +1,5 @@
+1. Install multer.
+2. changes in view.
+3. Middlware to handle files.
+4. apply that middlware.
+5. update contoller to update urls of images
